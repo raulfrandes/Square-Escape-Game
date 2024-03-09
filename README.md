@@ -1,1 +1,3 @@
 # Square-Escape
+
+Created a game in C++ utilizing the SDL2 and glm libraries, reminiscent of Flappy Bird, where the player controls a square navigating through dynamically generated rectangles. The game still need lot of work, an important feature that i need to implement is collision detection and game end. Through this experience, gained practical knowledge in implementing game mechanics using SDL2 and glm libraries, ultimately enhancing user experience.
